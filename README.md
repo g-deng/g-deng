@@ -1,6 +1,7 @@
 ## Hi, I'm Grace!
 I'm a Computer Science student at the University of Pennsylvania, graduating with BSE and MSE in 2027.
 
+[g-deng.github.io](https://g-deng.github.io/)
 <!--
 **g-deng/g-deng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
